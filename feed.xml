@@ -3,7 +3,7 @@
     <title>Luca Valvo En</title>
     <link href="https://crateluk.github.io/portfolio-en/feed.xml" rel="self" />
     <link href="https://crateluk.github.io/portfolio-en" />
-    <updated>2025-10-28T01:49:37+01:00</updated>
+    <updated>2025-10-28T01:51:57+01:00</updated>
     <author>
         <name>Luca</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://crateluk.github.io/portfolio-en/1-2/"/>
         <id>https://crateluk.github.io/portfolio-en/1-2/</id>
         <media:content url="https://crateluk.github.io/portfolio-en/media/posts/11/Valvo_luca_unreal_006-1-compressed.jpg" medium="image" />
+            <category term="Z-brush"/>
             <category term="Unreal Engine"/>
             <category term="Microsoft Office"/>
             <category term="Maya"/>
@@ -316,6 +317,7 @@
         <link href="https://crateluk.github.io/portfolio-en/1/"/>
         <id>https://crateluk.github.io/portfolio-en/1/</id>
         <media:content url="https://crateluk.github.io/portfolio-en/media/posts/10/image-1-compressed.jpg" medium="image" />
+            <category term="Z-brush"/>
             <category term="Vray"/>
             <category term="Nuke"/>
             <category term="Microsoft Office"/>
